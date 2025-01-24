@@ -1,5 +1,3 @@
-# PowerShellScripts
-
 # Important Disclaimer
 
 This repository contains PowerShell scripts that may include portions not entirely authored by me. These scripts are provided **as-is** for reference and learning purposes.
